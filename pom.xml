@@ -101,6 +101,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>rep-schedule</finalName>
 	</build>
 
 </project>
